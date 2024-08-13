@@ -11,5 +11,7 @@
 ![](assets/z2.png)
 
 ### نمایی از اجرا
-![](assets/)
+![](assets/z3.jpg)
 
+### خروجی برنامه
+![](assets/z1.png)
